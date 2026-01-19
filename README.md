@@ -33,26 +33,26 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## 📊 Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashu1tosh&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parajuliaashutosh&layout=compact)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashu1tosh&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parajuliaashutosh&show_icons=true&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aashu1tosh)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parajuliaashutosh)
 
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=aashu1tosh&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=parajuliaashutosh&theme=onedark)
 
 ## Projects
 Here are some notable projects and repositories you might be interested in:
 
-- ![📰] [Discussion Forum](https://github.com/aashu1tosh/discussion-forum-graphql--backend)
-- ![🚗] [E-commerce Web Application](https://github.com/aashu1tosh/ecommerce--backend)
-- ![🎥][Youtube Clone](https://github.com/aashu1tosh/youtube-clone) ([hosted link](https://youtube.aashutoshparajuli.com.np))
-- ![📰] [News Application](https://github.com/aashu1tosh/news-app) ([hosted link](https://youtube.aashutoshparajuli.com.np))
-- ![☀️] [Weather Application](https://github.com/aashu1tosh/my-weather-app) ([hosted link](https://weather.aashutoshparajuli.com.np))
+- ![📰] [Discussion Forum](https://github.com/parajuliaashutosh/discussion-forum-graphql--backend)
+- ![🚗] [E-commerce Web Application](https://github.com/parajuliaashutosh/ecommerce--backend)
+- ![🎥][Youtube Clone](https://github.com/parajuliaashutosh/youtube-clone) ([hosted link](https://youtube.aashutoshparajuli.com.np))
+- ![📰] [News Application](https://github.com/parajuliaashutosh/news-app) ([hosted link](https://youtube.aashutoshparajuli.com.np))
+- ![☀️] [Weather Application](https://github.com/parajuliaashutosh/my-weather-app) ([hosted link](https://weather.aashutoshparajuli.com.np))
 
 Feel free to explore my repositories and reach out if you have any questions or suggestions. Let's connect and collaborate!
 
